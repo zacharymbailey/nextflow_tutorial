@@ -1,0 +1,2 @@
+# nextflow_tutorial
+basic_outline_nextflow_tutorial
